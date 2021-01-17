@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleadoangular": {
+      "hosting": {
+        "empleado": [
+          "empleadoangular"
+        ]
+      }
+    }
+  }
+}
